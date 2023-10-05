@@ -11,8 +11,28 @@
     "idf.openOcdConfigs": [
         "board/esp32s3-builtin.cfg"
     ],
-    "idf.portWin": "COM3",
+    "idf.portWin": "COM5",
     "idf.pythonBinPathWin": "C:\\Users\\sprin\\.espressif\\python_env\\idf5.1_py3.11_env\\Scripts\\python.exe",
     "idf.toolsPathWin": "C:\\Users\\sprin\\.espressif",
-    "idf.flashType": "UART"
+    "idf.flashType": "UART",
+    "files.associations": {
+        "stdio.h": "c",
+        "esp_lcd_panel_vendor.h": "c",
+        "esp_lcd_panel_io.h": "c",
+        "esp_lcd_panel_ops.h": "c",
+        "esp_lvgl_port.h": "c",
+        "iot_button.h": "c",
+        "button_adc.h": "c",
+        "esp_err.h": "c",
+        "lv_demo_keypad_encoder.h": "c",
+        "lv_indev.h": "c",
+        "lv_demos.h": "c",
+        "i2c.h": "c",
+        "led_strip.h": "c",
+        "spi_master.h": "c",
+        "esp_log.h": "c",
+        "iot_knob.h": "c"
+    },
+    "C_Cpp.errorSquiggles": "disabled",
+    "C_Cpp.default.compilerPath": "C:/Users/sprin/.espressif/tools/xtensa-esp32s3-elf/esp-12.2.0_20230208/xtensa-esp32s3-elf/bin/xtensa-esp32s3-elf-gcc.exe"
 }

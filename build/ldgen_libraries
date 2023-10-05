@@ -62,4 +62,9 @@ C:/Users/sprin/Documents/HiddenPeakKits/examples/MagicFilmTool/build/esp-idf/tou
 C:/Users/sprin/Documents/HiddenPeakKits/examples/MagicFilmTool/build/esp-idf/ulp/libulp.a
 C:/Users/sprin/Documents/HiddenPeakKits/examples/MagicFilmTool/build/esp-idf/usb/libusb.a
 C:/Users/sprin/Documents/HiddenPeakKits/examples/MagicFilmTool/build/esp-idf/wifi_provisioning/libwifi_provisioning.a
+C:/Users/sprin/Documents/HiddenPeakKits/examples/MagicFilmTool/build/esp-idf/espressif__button/libespressif__button.a
+C:/Users/sprin/Documents/HiddenPeakKits/examples/MagicFilmTool/build/esp-idf/lvgl__lvgl/liblvgl__lvgl.a
+C:/Users/sprin/Documents/HiddenPeakKits/examples/MagicFilmTool/build/esp-idf/espressif__esp_lvgl_port/libespressif__esp_lvgl_port.a
+C:/Users/sprin/Documents/HiddenPeakKits/examples/MagicFilmTool/build/esp-idf/espressif__knob/libespressif__knob.a
+C:/Users/sprin/Documents/HiddenPeakKits/examples/MagicFilmTool/build/esp-idf/espressif__led_strip/libespressif__led_strip.a
 C:/Users/sprin/Documents/HiddenPeakKits/examples/MagicFilmTool/build/esp-idf/main/libmain.a

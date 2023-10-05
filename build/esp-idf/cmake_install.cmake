@@ -409,6 +409,36 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
+  include("C:/Users/sprin/Documents/HiddenPeakKits/examples/MagicFilmTool/build/esp-idf/espressif__cmake_utilities/cmake_install.cmake")
+endif()
+
+if(NOT CMAKE_INSTALL_LOCAL_ONLY)
+  # Include the install script for the subdirectory.
+  include("C:/Users/sprin/Documents/HiddenPeakKits/examples/MagicFilmTool/build/esp-idf/espressif__button/cmake_install.cmake")
+endif()
+
+if(NOT CMAKE_INSTALL_LOCAL_ONLY)
+  # Include the install script for the subdirectory.
+  include("C:/Users/sprin/Documents/HiddenPeakKits/examples/MagicFilmTool/build/esp-idf/lvgl__lvgl/cmake_install.cmake")
+endif()
+
+if(NOT CMAKE_INSTALL_LOCAL_ONLY)
+  # Include the install script for the subdirectory.
+  include("C:/Users/sprin/Documents/HiddenPeakKits/examples/MagicFilmTool/build/esp-idf/espressif__esp_lvgl_port/cmake_install.cmake")
+endif()
+
+if(NOT CMAKE_INSTALL_LOCAL_ONLY)
+  # Include the install script for the subdirectory.
+  include("C:/Users/sprin/Documents/HiddenPeakKits/examples/MagicFilmTool/build/esp-idf/espressif__knob/cmake_install.cmake")
+endif()
+
+if(NOT CMAKE_INSTALL_LOCAL_ONLY)
+  # Include the install script for the subdirectory.
+  include("C:/Users/sprin/Documents/HiddenPeakKits/examples/MagicFilmTool/build/esp-idf/espressif__led_strip/cmake_install.cmake")
+endif()
+
+if(NOT CMAKE_INSTALL_LOCAL_ONLY)
+  # Include the install script for the subdirectory.
   include("C:/Users/sprin/Documents/HiddenPeakKits/examples/MagicFilmTool/build/esp-idf/main/cmake_install.cmake")
 endif()
 
